@@ -1,0 +1,70 @@
+.info-section {
+    width: 40vw;
+    // height: 34.6vh;
+    margin: auto;
+    margin-top: 8vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .info-photo {
+        width: 35vw;
+        height: 35vw;
+        border-radius: 50%;
+        border: 5px solid rgba($color: $gray-400, $alpha: .4);
+    }
+    .info-nickname {
+        margin-top: 2vh;
+        font-size: 7.6vw;
+    }
+    .info-edit-button {
+        width: 41.8vw;
+        height: 13.3vw;
+        display: flex;
+        align-items: center;
+        margin-top: 2vh;
+        border: 8px solid $gray-500;
+        border-radius: 6.65vw;
+        .info-edit-button-image {
+            margin-left: 30px;
+            width: 8vw;
+            height: 8vw;
+            border-radius: 50%;
+            overflow: hidden;
+        }
+        .info-edit-button-text {
+            margin-left: 20px;
+            font-size: 5vw;
+            color: $gray-600;
+        }
+    }
+}
+
+.info-edit-section {
+    margin: auto;
+    margin-top: 2.8vh;
+    width: 87.4vw;
+    height: 60vh;
+    overflow-y: auto;
+    .info-edit-wrap {
+        width: 90%;
+        height: 9.6vh;
+        margin: auto;
+        margin-top: 2vh;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-radius: 30px;
+        box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3);
+        .info-edit-text {
+            margin-left: 20px;
+            font-size: 5vw;
+            font-weight: bold;
+        }
+        .info-edit-photo {
+            width: 6vh;
+            height: 6vh;
+            border-radius: 50%;
+            margin-right: 20px;
+        }
+    }
+}

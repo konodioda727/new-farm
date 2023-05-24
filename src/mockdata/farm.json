@@ -1,0 +1,111 @@
+[
+    {
+        "name": "湖北省蕲春县",
+        "imgurl": "https://s2.loli.net/2023/05/24/vVblczh4DNxP6wC.jpg",
+        "productList": [
+            {
+                "name": "蕲春薏苡仁",
+                "details": "薏苡是蕲春县北部山区传统种植的特产作物之一.薏苡又名六谷子、苡仁、薏仁米、苡米、沟子米等,薏苡仁是药食兼优的佳品.以种仁供药用,为常用中药,有利水渗湿、健脾止泻、清热排脓的功能,浙江省康莱特集团,就是以薏苡仁为主要原料,提取康莱特制成抗癌新中成药,已在俄罗斯全国获准进入临床实验；薏苡仁营养丰富,含有亮氨酸、精氨酸、赖氨酸、酪氨酸等氨基酸类成份和脂肪酸、糖类,也是食疗的佳品.",
+                "reason": "none",
+                "imgurl": ["https://s2.loli.net/2023/05/24/4aHWFRBixET9GCv.jpg", "https://s2.loli.net/2023/05/24/xXbgSEH2jLdz57f.jpg","https://s2.loli.net/2023/05/24/PeJiB4btdaOM7py.jpg","https://s2.loli.net/2023/05/24/RTqn72epEKQa3h9.jpg"],
+                "price": 23,
+                "star": 4.5
+            },
+            {
+                "name": "蕲芹",
+                "details": "蕲芹,湖北省蕲春县特产,中国国家地理标志产品.蕲芹是蕲春县的土特产,蕲春县土壤熟化程度高,土层深厚、疏松、富含有机质,非常适合蕲春芹菜生长.蕲春芹菜与别处的芹菜是有不相同处,蕲芹无主杆,根部硕大,是一团白茎,枝叶从白茎抽长,呈伞状蓬生,叶细碎而枝条纤细.蕲芹色泽翠绿,做菜脆嫩清香.与其他地方的芹菜相比,具有色泽鲜绿,茎柄充实肥嫩,爽口生津、翠汁留香、味美香嫩等特点.2012年11月23日,原国家质检总局批准对“蕲芹”实施地理标志产品保护.",
+                "reason": "none",
+                "imgurl": ["https://s2.loli.net/2023/05/24/eiFNBntCRxa8HlI.jpg","https://s2.loli.net/2023/05/24/vVblczh4DNxP6wC.jpg","https://s2.loli.net/2023/05/24/uOCTqVlHRnpMzjw.jpg","https://s2.loli.net/2023/05/24/1lzQjrmHICniath.jpg","https://s2.loli.net/2023/05/24/4nKJlefEhykjBLb.jpg"],
+                "price": 15,
+                "star": 4
+            },
+            {
+                "name": "蕲艾",
+                "details": "蕲艾,湖北省蕲春县特产,中国国家地理标志产品.蕲艾植株高大,高150~250厘米,香气浓烈；叶厚纸质,被毛密而厚,中部叶羽状浅裂,上部叶通常不分裂,椭圆形或长椭圆形,最长可达7-8厘米,宽1.5厘米,叶揉之常成棉絮状；入药,性温、苦、辛、微甘.蕲艾挥发油含有乙酸乙醋(acetate ester)、1,8-桉叶油素、水合莰烯(camphene hydrote)、樟脑、龙脑(borneol)等,含侧柏酮.药理分析挥发油对多种霉菌、球菌、杆菌有抑制作用,还有平喘、镇咳作用.2010年12月,原国家质检总局批准对“蕲艾”实施地理标志产品保护.",
+                "reason": "none",
+                "imgurl": ["https://s2.loli.net/2023/05/24/yPMmDeYgainJb3X.jpg","https://s2.loli.net/2023/05/24/iBbI7LvmSHwgM38.jpg","https://s2.loli.net/2023/05/24/rw3vKEPGyjh1DXC.jpg","https://s2.loli.net/2023/05/24/1gWdJ3IEYxUKbPh.jpg","https://s2.loli.net/2023/05/24/wstmpxFjAQWDUEc.png"],
+                "price": 12,
+                "star": 3.6
+            },
+            {
+                "name": "蕲春夏枯草",
+                "details": "蕲春夏枯草,湖北省蕲春县特产,中国国家地理标志产品.湖北蕲春是医药学家李时珍的故乡,在气候上属亚热带大陆性季风气候,四季分明,气候温和,雨量充沛,地理环境和气候条件非常适合中药材的生长.蕲春夏枯草为多年生草本植物,入药具有清肝明目、散结解毒等功效.2014年05月16日,原国家质检总局批准对“蕲春夏枯草”实施地理标志产品保护",
+                "reason": "none",
+                "imgurl": ["https://s2.loli.net/2023/05/24/DJyOcpPvAY6Kmt5.jpg","https://s2.loli.net/2023/05/24/HS6nMRaUxs1e9VD.jpg","https://s2.loli.net/2023/05/24/1Bxanc92CZUVXIQ.jpg","https://s2.loli.net/2023/05/24/hIYCDoQHqAeaXvj.jpg","https://s2.loli.net/2023/05/24/tuaNcf7qVsUYM2H.jpg","https://s2.loli.net/2023/05/24/vWpusD4ghkcQnKb.jpg","https://s2.loli.net/2023/05/24/EjOnm1zC9v5RZ7w.jpg"],
+                "price": 6.6,
+                "star": 3.8
+            }, 
+            {
+                "name": "蕲春油姜",
+                "details": "蕲春油姜,为蕲春县传统名产之一,以嫩姜用酱渍加工而成.此姜较它处姜含纤维质少,脆嫩香甜,别具风味,历史上颇负盛名.蕲春油姜是一种有名的酱菜,也是很好的调味品.麻油制成的油姜,更是香浓味美.在烹调蔬菜时,放些油姜丝,能使菜味清香可口；烧鱼烧肉时放些油姜丝,既可除去腥、膻,又增强鱼、肉的鲜香,并能促进食欲.蕲春油姜还是一种芳香性辛辣健胃药,被誉为“御湿之菜”.现已制成罐头,销售全国各地和港澳地区",
+                "reason": "",
+                "imgurl": ["https://s2.loli.net/2023/05/24/DFWtPdRHxrjLaOM.jpg","https://s2.loli.net/2023/05/24/sjxPeyRntCa3XuS.jpg","https://s2.loli.net/2023/05/24/jRGZ2oW49k6IbUA.jpg"],
+                "price": 2.4,
+                "star": 5
+            },
+            {
+                "name": "蕲春珍米",
+                "details": "蕲春珍米,湖北省蕲春县特产,中国国家地理标志产品.蕲春珍米米粒晶莹透亮,光泽度好；粒型瘦长；米饭味清香爽口,口感细腻,软而不粘,富有弹性. 理化指标.长宽比大于等于3.0,垩白度小于等于3.0%,品尝评分值大于等于80,胶稠度大于等于60毫米,直链淀粉含量17%至22%,蛋白质含量7.4至7.8.2009年11月,原国家质检总局批准对“蕲春珍米”实施地理标志产品保护",
+                "reason": "",
+                "imgurl": ["https://s2.loli.net/2023/05/24/merLkIuKbfjFOqQ.jpg","https://s2.loli.net/2023/05/24/5vaGKnCkwm4AUZy.jpg","https://s2.loli.net/2023/05/24/JbdwAiqyXfZ9aBW.jpg","https://s2.loli.net/2023/05/24/47tXfZQBhEn1a8A.jpg","https://s2.loli.net/2023/05/24/4CsXH6gDhuLkKm7.jpg"],
+                "price": 2.3,
+                "star": 4.7
+            },
+            {
+                "name": "蕲山药",
+                "details": "蕲山药,湖北省黄冈市蕲春县青石镇特产,全国农产品地理标志产品.蕲山药产地区域土壤属山区冲积物,保水性能好,土层深厚,是有机质含量丰富的沙壤土；水源来自天然的山泉水,无污染,水质条件良好；光照充足,气候温和,四季交替明显,气候条件和环境条件与蕲山药生长需要的水、肥、气、土特性吻合,造就了蕲山药品形如棒槌、质感清脆爽口、肉质细腻多汁的特点.2013年12月30日,原中华人民共和国农业部正式批准对“蕲山药”实施农产品地理标志登记保护",
+                "reason": "",
+                "imgurl": ["https://s2.loli.net/2023/05/24/he5OcwnbFSrZgM8.jpg","https://s2.loli.net/2023/05/24/DkiwKC45xRPHmY1.jpg"],
+                "price": 6.7,
+                "star": 4.2
+            }
+        ]
+    },
+    {
+        "name": "farm2",
+        "imgurl": "https://s2.loli.net/2023/05/20/OJl7TaqdSs1UPXo.jpg",
+        "productList": [
+            {
+                "name": "蕲芹",
+                "details": "蕲芹,湖北省蕲春县特产,中国国家地理标志产品.蕲芹是蕲春县的土特产,蕲春县土壤熟化程度高,土层深厚、疏松、富含有机质,非常适合蕲春芹菜生长.蕲春芹菜与别处的芹菜是有不相同处,蕲芹无主杆,根部硕大,是一团白茎,枝叶从白茎抽长,呈伞状蓬生,叶细碎而枝条纤细.蕲芹色泽翠绿,做菜脆嫩清香.与其他地方的芹菜相比,具有色泽鲜绿,茎柄充实肥嫩,爽口生津、翠汁留香、味美香嫩等特点.2012年11月23日,原国家质检总局批准对“蕲芹”实施地理标志产品保护.",
+                "reason": "none",
+                "imgurl": ["https://s2.loli.net/2023/05/20/OJl7TaqdSs1UPXo.jpg"],
+                "price": 234,
+                "star": 4.5
+            }
+        ]
+    },
+    {
+        "name": "farm3",
+        "imgurl": "https://s2.loli.net/2023/05/20/lUvCt8SYwBqaDIG.jpg",
+        "productList": [
+            {
+                "name": "potato",
+                "details": "good",
+                "reason": "none",
+                "imgurl": ["https://s2.loli.net/2023/05/20/lUvCt8SYwBqaDIG.jpg"],
+                "price": 23,
+                "star": 4.5
+            }
+        ]
+    },
+    {
+        "name": "farm4",
+        "imgurl": "https://s2.loli.net/2023/05/20/TeGHY7E5xjkDW38.jpg",
+        "productList": [
+            {
+                "name": "tomato",
+                "details": "good",
+                "reason": "none",
+                "imgurl": ["https://s2.loli.net/2023/05/20/TeGHY7E5xjkDW38.jpg"],
+                "price": 23,
+                "star": 4.5
+            }
+        ]
+    }
+]
+
+
+
+
+

@@ -1,0 +1,81 @@
+
+.farmLand-farmList-wrap {
+    width: 88vw;
+    height: 22.7vh;
+    margin: 0 auto;
+    margin-top: 12.6vh;
+    overflow: hidden;
+    position: relative;
+    .farmLand-farmList-item {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        .farmLand-farmList-hover {
+            min-width: 30%;
+            padding: 20px;
+            position: absolute;
+            bottom: 10%;
+            left: 50%;
+            background: rgba($color: $white, $alpha: .9);
+            border-radius: 40px;
+            z-index: 3;
+            transform: translateX(-50%);
+            .farmLand-farmList-hover-text {
+                font-size: $font-size-title;
+                font-weight: bold;
+                text-align: center;
+            }
+        }
+    }
+    
+}
+.farmLand-productList-title {
+    width: 100vw;
+    // text-align: center;
+    font-size: $font-size-title;
+    font-weight: bold;
+    margin-top: 5vh;
+    margin-left: 6vw;
+}
+.farmLand-productList-wrap {
+    margin: 0 auto;
+    // display: flex;
+    // flex-direction: column;
+    height: 50vh;
+    width: 88vw;
+    // align-items: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border-radius: 40px;
+    background-color: $gray-200;
+    box-shadow: $box-shadow;
+    .farmLand-productList-item {
+        margin: auto;
+        margin-top: 2vh;
+        display: flex;
+        width: 80vw;
+        height: 12vh;
+        align-items: center;
+        border-radius: 60px;
+        background-color: $gray-400;
+        // &:hover {
+        //     animation: color .2s ease-in-out forwards;
+        // }
+        .farmLand-productList-item-pic {
+            width: 14.4vw;
+            height: 14.4vw;
+            border-radius: 50%;
+            overflow: hidden;
+            margin-left: 5vw;
+        }
+        .farmLand-productList-item-name {
+            margin-left: 5vw;
+        }
+    }
+}
+@keyframes color {
+    100% {
+        color: $gray-400;
+        scale:1.2
+    }
+}

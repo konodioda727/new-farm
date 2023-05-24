@@ -1,0 +1,129 @@
+body {
+    display: flex;
+    flex-direction: column;
+    // align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.index-swiper-wrap {
+    margin: auto;
+    width: 96vw;
+    min-height: 28vh;
+    margin-top: 3vw;
+    .index-swiper-item {
+        margin: auto;
+        width: 90%;
+        height: 99%;
+    }
+}
+.VR-swiper-wrap {
+    position: relative;
+}
+.index-VR-wrap {
+    width: 96vw;
+    height: 24vh;
+    margin-left: 5vw;
+    .index-VR {
+        position: relative;
+        width: 90%;
+        height: 96%;
+        border-radius: 30px;
+        box-shadow: $box-shadow;
+        background-color: $white;
+        overflow: hidden;
+        .VR-img {
+            position: absolute;
+            width: 100%;
+            // height: 70%;
+        }
+        .index-VR-text {
+            width: 50%;
+            overflow: auto;
+            font-weight: bold;
+            height: 20%;
+            background-color: #fff;
+            border-radius: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            position: absolute;
+            bottom: 5%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            z-index: 5;
+        }
+    }
+    
+}
+
+.index-text {
+    font-size:  $font-size-title;
+    margin-top: 3vh  ;
+    margin-left: 8vw;
+    font-weight: bold;
+}
+.index-hot-wrap {
+    width: 90vw;
+    height: 40vh;
+    overflow-y: auto;
+    margin: 0 auto;
+    .index-hot-item {
+        margin: auto;
+        position: relative;
+        width: 95%;
+        height: 60%;
+        border-radius: 30px;
+        overflow: hidden;
+        box-shadow: $box-shadow;
+        margin-top: 2vh;
+        .index-hot-pic {
+            position: absolute;
+            width: 100%;
+            top: 0;
+            left: 0;
+            border-radius: 30px;
+        }
+        .index-hot-hover {
+            position: absolute;
+            width: 40%;
+            height: 5vh;
+            bottom: 10%;
+            left: 50%;
+            line-height: 5vh;
+            text-align: center;
+            transform: translateX(-50%);
+            background: $white;
+            border-radius: 40px;
+            font-weight: bold;
+            z-index: 3;
+        }
+    }
+}
+.index-sort-wrap {
+    height: 9.2vh;
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    margin-top: 2vh;
+    
+    .index-sort-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10px;
+        overflow: hidden;
+        margin-bottom: 2vh;
+        box-shadow: $box-shadow;
+        .index-sort-pic {
+            width: 12vw;
+            height: 12vw;
+            overflow: hidden;
+        } 
+        .index-sort-text {
+            font-size: medium;
+        }
+    }
+}
